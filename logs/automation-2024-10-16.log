@@ -1,0 +1,51 @@
+13:09:16:534 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+13:11:22:628 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\groups.xml"
+13:11:22:895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pavan\opencartv1.0\groups.xml
+
+13:11:32:638 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+13:11:33:602 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
+13:11:40:996 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
+13:11:41:815 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished****
+13:11:50:076 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+13:17:07:677 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\groups.xml"
+13:17:07:901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pavan\opencartv1.0\groups.xml
+
+13:17:17:152 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+13:17:36:420 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+13:17:38:035 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest******
+13:18:12:551 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\groups.xml"
+13:18:12:746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pavan\opencartv1.0\groups.xml
+
+13:18:21:081 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+13:18:29:721 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
+13:18:30:122 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
+13:18:30:944 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished****
+13:18:38:508 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+13:18:53:648 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest******
+13:24:51:226 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
+13:24:51:555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pavan\opencartv1.0\mastertestng.xml
+
+13:25:00:140 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:25:00:146 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:25:00:148 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:25:00:674 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:25:00:677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:25:00:678 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:25:00:720 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:25:00:722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:25:00:724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:25:00:756 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:25:00:757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:25:00:758 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:25:00:782 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:25:00:783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:25:00:786 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:25:00:808 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:25:00:808 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:25:00:809 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:25:00:826 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:25:00:828 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels

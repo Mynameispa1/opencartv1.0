@@ -1,0 +1,17 @@
+09:43:41:655 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
+09:44:40:457 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+09:44:51:489 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
+09:44:52:692 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
+09:45:02:768 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+09:45:02:768 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
+09:45:50:936 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+09:46:46:440 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
+09:47:36:467 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+09:48:36:087 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+09:52:11:164 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
+09:53:01:942 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+09:53:10:083 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
+09:53:11:045 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
+09:53:21:092 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+09:53:21:092 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
+09:54:08:696 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
