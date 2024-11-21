@@ -22,13 +22,23 @@ public class AccountRegistrationPage extends BasePage {
 	@FindBy(xpath="//input[@id='input-email']")
 	WebElement txtEmail;
 	
+	@FindBy(xpath="//input[@id=\"input-telephone\"]")
+	WebElement phoneNum;
+	
 	@FindBy(xpath="//input[@id='input-password']")
 	WebElement txtPassword;
+	
+
+	@FindBy(xpath="//input[@id=\"input-confirm\"]")
+	WebElement txtConfirmPassword;
+	
+	
 	
 	@FindBy(xpath="//input[@name='agree']")
 	WebElement Agree;
 	
-	@FindBy(xpath="//button[normalize-space()='Continue']")
+	@FindBy(xpath="//input[@value=\"Continue\"]")
+	
 	WebElement Continue;
 	
 	
@@ -49,8 +59,16 @@ public class AccountRegistrationPage extends BasePage {
 		txtEmail.sendKeys(email);
 	}
 	
+	public void setPhoneNum(String phonenumber) {
+		phoneNum.sendKeys(phonenumber);
+	}
+	
 	public void setPassword(String password) {
 		txtPassword.sendKeys(password);
+	}
+	
+	public void setConfirmPassword(String password) {
+		txtConfirmPassword.sendKeys(password);
 	}
 	public void clickAgree() {
 		Agree.click();

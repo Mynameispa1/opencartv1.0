@@ -20,7 +20,7 @@ public class LoginPage extends BasePage{
 	@FindBy(xpath="//input[@id='input-password']")
 	WebElement txtpassword;
 	
-	@FindBy(xpath="//button[normalize-space()='Login']")
+	@FindBy(xpath="//input[@value=\"Login\"]")
 	WebElement btnLogin;
 	
 	//Access Method

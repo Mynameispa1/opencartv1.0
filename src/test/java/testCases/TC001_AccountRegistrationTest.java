@@ -31,13 +31,16 @@ public class TC001_AccountRegistrationTest extends BaseClass{
 		hp.clickMyAccount();
 		hp.clickRegister();	
 		
+		String password=randomAlpaNumeric();
 		
 		AccountRegistrationPage rp = new AccountRegistrationPage(driver);
 		logger.info("*** Providing Customer details  ****");
 		rp.setFirtName(randomString().toUpperCase());
 		rp.setLastName(randomString().toUpperCase());
 		rp.setEmail(randomString()+"@gmail.com");
-		rp.setPassword(randomAlpaNumeric());
+		rp.setPhoneNum(randomAlpaNumeric());
+		rp.setPassword(password);
+		rp.setConfirmPassword(password);
 		rp.clickAgree();
 		rp.clickContinue();
 		

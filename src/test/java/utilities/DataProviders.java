@@ -14,15 +14,15 @@ public class DataProviders {
 		String path = "D:\\pavan\\opencartv1.0\\testData\\LoginData.xlsx";
 		ExcelUtility ExcelUtil = new ExcelUtility(path);
 		
-		int totalrows=ExcelUtil.getRowCount("Sheet1");
-		int totalcols=ExcelUtil.getCellCount("Sheet1", 1);
+		int totalrows=ExcelUtil.getRowCount("Sheet");
+		int totalcols=ExcelUtil.getCellCount("Sheet", 1);
 		
 		String loginData[][]= new String [totalrows][totalcols];
 		
-		for(int i=1; i<totalrows; i++) {
+		for(int i=1; i<=totalrows; i++) {
 			
 			for(int j=0; j<totalcols;j++) {
-				loginData[i-1][j] = ExcelUtil.getCellData("Sheet1", i, j);
+				loginData[i-1][j] = ExcelUtil.getCellData("Sheet", i, j);
 			}
 		}
 		
@@ -30,5 +30,8 @@ public class DataProviders {
 		
 		
 	}	
+	
+	//Dataprovider 2
+	//Dataprovider 3
 	
 }

@@ -1,17 +1,46 @@
-09:43:41:655 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
-09:44:40:457 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
-09:44:51:489 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
-09:44:52:692 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
-09:45:02:768 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
-09:45:02:768 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
-09:45:50:936 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
-09:46:46:440 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
-09:47:36:467 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
-09:48:36:087 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
-09:52:11:164 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
-09:53:01:942 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
-09:53:10:083 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
-09:53:11:045 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
-09:53:21:092 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
-09:53:21:092 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
-09:54:08:696 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+17:16:46:180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:16:46:183 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:16:46:183 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:16:46:197 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:16:46:197 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:16:46:198 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:16:46:210 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:16:46:210 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:16:46:211 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:16:46:228 [main] INFO  testCases.TC003_LoginDDT - ***** Started TC003_LoginDDT Test*****
+17:16:57:928 [main] INFO  testCases.TC003_LoginDDT - ***** Started TC003_LoginDDT Test*****
+17:17:09:654 [main] INFO  testCases.TC003_LoginDDT - ***** Started TC003_LoginDDT Test*****
+17:17:24:205 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT Test*****
+17:17:24:206 [main] INFO  testCases.TC003_LoginDDT - ***** Started TC003_LoginDDT Test*****
+17:17:35:926 [main] INFO  testCases.TC003_LoginDDT - ***** Started TC003_LoginDDT Test*****
+17:17:50:604 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT Test*****
+17:17:50:605 [main] INFO  testCases.TC003_LoginDDT - ***** Started TC003_LoginDDT Test*****
+17:17:56:064 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT Test*****
+17:18:32:222 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
+17:18:36:565 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+17:18:37:245 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
+17:18:38:688 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
+17:18:38:724 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished****
+17:18:42:235 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+17:18:43:749 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest******
+17:25:26:532 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
+17:25:31:005 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+17:25:31:737 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
+17:25:33:235 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
+17:25:33:276 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished****
+17:25:36:753 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+17:25:38:328 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest******
+17:26:09:423 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
+17:26:13:393 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+17:26:14:280 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
+17:26:15:979 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
+17:26:16:014 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished****
+17:26:19:299 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+17:26:20:777 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest******
+17:41:18:910 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pavan\opencartv1.0\mastertestng.xml"
+17:41:23:469 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Staring TC001_AccountRegistrationTest ****
+17:41:24:374 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details  ****
+17:41:25:821 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validation ****
+17:41:25:875 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished****
+17:41:29:131 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest******
+17:41:30:766 [main] INFO  testCases.TC002_LoginTest - ****finished TC002_LoginTest******
